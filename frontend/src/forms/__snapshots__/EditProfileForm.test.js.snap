@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Form"
+  >
+    <label
+      class=""
+      for="username"
+    >
+      Username
+    </label>
+    <p>
+      <b />
+    </p>
+    <form
+      class="Form-body"
+    >
+      <div
+        class="form-group"
+      >
+        <label
+          class=""
+          for="firstName"
+        >
+          First Name
+        </label>
+        <input
+          class="Form-input form-control"
+          id="firstName"
+          name="firstName"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class=""
+          for="lastName"
+        >
+          Last Name
+        </label>
+        <input
+          class="Form-input form-control"
+          id="lastName"
+          name="lastName"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class=""
+          for="email"
+        >
+          Email
+        </label>
+        <input
+          class="Form-input form-control"
+          id="email"
+          name="email"
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label
+          class=""
+          for="password"
+        >
+          Confirm password to make changes
+        </label>
+        <input
+          class="Form-input form-control"
+          id="password"
+          name="password"
+          type="password"
+          value=""
+        />
+      </div>
+      <button
+        class="Form-btn btn-success btn btn-secondary"
+      >
+        Save
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
